@@ -1,0 +1,28 @@
+.table {
+    border-collapse: collapse;
+    font-family: 'Noto Sans', sans-serif;
+    width: 100%;
+}
+
+.table__cell {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 5px;
+}
+
+.table__row:hover {
+    background: #ccc;
+}
+
+.table__header {
+    background-color: crimson;
+    color: white;
+}
+
+.table__header2 {
+    background-color: rgb(110, 146, 141);
+    color: white;
+}
+
+.table__container {
+    overflow-x: auto;
+}
