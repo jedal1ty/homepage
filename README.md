@@ -4,6 +4,8 @@
 
 https://jedal1ty.github.io/homepage/
 
+(images\Animation.gif)
+
 
 ### Description
 
