@@ -3,3 +3,8 @@
 ## Demo
 
 https://jedal1ty.github.io/homepage/
+
+
+### Description
+
+This is my homepage created using HTML, CSS and Javascript while learning to code with YouCode Team
