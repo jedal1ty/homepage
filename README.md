@@ -4,7 +4,7 @@
 
 https://jedal1ty.github.io/homepage/
 
-[(images\Animation.gif)](https://github.com/jedal1ty/homepage/blob/main/images/Animation.gif?raw=true)
+![homepage demo](images/Demo.gif)
 
 
 ### Description
