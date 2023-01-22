@@ -4,33 +4,33 @@
 
 .navigation__list {
     font-family: 'Noto Sans', sans-serif;
-    display: inline-block;
 }
 
-.navigation__link {
+.navigation__listItem {
     font-family: 'Noto Sans', sans-serif;
     color: teal;
     padding: 20px;
-    margin: 50px auto;
+    margin: 30px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 10px;
     box-shadow: 10px 10px 15px 3px darkred;
     display: inline-block;
+    text-decoration: none;
 }
 
-.navigation__link:focus {
+.navigation__listItem:focus {
     color: rgb(139, 0, 0);
     box-shadow: 4px 4px 10px 2px darkred;
     outline: none;
 }
 
-.navigation__link:hover {
+.navigation__listItem:hover {
     background-color: grey;
     color: rgb(0, 255, 247);
     outline: none;
 }
 
-.navigation__link:active {
+.navigation__listItem:active {
     color: rgb(255, 255, 255);
 }
