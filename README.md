@@ -4,7 +4,7 @@
 
 https://jedal1ty.github.io/homepage/
 
-![homepage demo](images\Demo.gif)
+![homepage demo](images/Demo.gif)
 
 
 ### Description
